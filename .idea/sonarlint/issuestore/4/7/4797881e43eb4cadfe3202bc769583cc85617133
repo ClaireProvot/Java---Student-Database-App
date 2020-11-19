@@ -1,0 +1,14 @@
+
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(äº¡Åşÿÿÿÿ8—¸ïÜÒ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‘Ú¯8Ûİ ÜÒ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(˜”ë"8ğ—ÜÒ.
+9
+java:S16430"Use a StringBuilder instead.(İĞ•°8Ô¢àÜÒ.
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(éº òıÿÿÿÿ8äôõÜÒ.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(ç¨“œ8º­şÜÒ.
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ÕÚ€‚ıÿÿÿÿ8öàËÜÒ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Šë78å¬ ÜÒ.
+X
+java:S2696#"6Make the enclosing method "static" or remove this set.(¶Ò¦èüÿÿÿÿ8ƒÄÀÜÒ.
+Y
+java:S25894"7Remove this expression which always evaluates to "true"(šì‘æüÿÿÿÿ8Ô¢àÜÒ.
